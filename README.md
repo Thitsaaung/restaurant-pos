@@ -7,3 +7,7 @@ A modern Restaurant POS System built with Laravel and React.
 - Laravel
 - React
 - MySQL
+
+# Goal
+
+- Build a complete POS system for restaurants .
